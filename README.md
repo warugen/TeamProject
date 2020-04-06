@@ -31,4 +31,4 @@ https://drive.google.com/file/d/1-RKiOOu-4emrxsNee7HLZp-Vl1uAE6u1/view?usp=shari
 - 이벤트 ( 출석 이벤트, 등급별 할인쿠폰, 등급별 구매 포인트?...)  
 - 매출관리(일별,월별,년간)  
 - 매출통계 (일별, 월별, 년간 원가대비, 상품별 매출)
-- 
+- 게시판은 한사람당 하나씩??
