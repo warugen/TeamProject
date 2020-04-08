@@ -1,6 +1,7 @@
 # 깃허브 참조
 https://docs.google.com/presentation/d/1__X648YZ3YIExPTfkcFrqvWsX428bZCEU_OlMPBeOWg/edit#slide=id.g82f4dbb91d_0_70
 
+# 기능정의서 회원
 https://drive.google.com/file/d/1PSNLpHFOWKSsKrLxP43JBgfyfSPHfLp5/view?usp=sharing
 
 # TeamProject
