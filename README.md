@@ -6,6 +6,9 @@ https://docs.google.com/presentation/d/1__X648YZ3YIExPTfkcFrqvWsX428bZCEU_OlMPBe
 
 https://drive.google.com/file/d/1PSNLpHFOWKSsKrLxP43JBgfyfSPHfLp5/view?usp=sharing
 
+# 구글 드라이브 공유 폴더
+https://drive.google.com/drive/folders/1Gv990gJi8q0k-T9UDZlWgCLl2UF-PQm7
+
 # TeamProject
 
 #쇼핑몰 솔루션 참조 사이트  
