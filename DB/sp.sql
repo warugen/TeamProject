@@ -91,7 +91,9 @@ CREATE TABLE CUSTOMER (
 	CTEL        VARCHAR2(20) NOT NULL,  /* 고객전화 */
 	CRDATE      DATE DEFAULT SYSDATE,   /* 가입날짜 */
 	CBIRTH      DATE NOT NULL,          /* 고객생일 */
+    CPOINT      NUMBER(10),             /* 고객포인트 */
 	GCODE       VARCHAR2(1) NOT NULL    /* 등급코드 */
+    
 );
 
 ALTER TABLE CUSTOMER
@@ -122,6 +124,7 @@ CREATE TABLE PRODUCT_OPTION (
 	PONAME      VARCHAR2(100)   NOT NULL,   /* 상품옵션명 */
 	PONET       NUMBER(10)      NOT NULL,   /* 원가 */
 	POPRICE     NUMBER(10)      NOT NULL,   /* 판매가격 */
+    POSTOCK     NUMBER(10),                 /* 재고수량 */
 	TYPECODE    VARCHAR2(3)     NOT NULL,   /* 상품분류코드 */
 	PCODE       VARCHAR2(20)                /* 상품코드  */
 );
